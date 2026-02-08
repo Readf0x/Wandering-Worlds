@@ -1,0 +1,17 @@
+filename = 'cosmetics-1.0.0.jar'
+name = 'Cosmetics Equipment'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = 'bd006a9c46abc9140ce6926c8dd17983641738e9c0fc12af2098a1a4a3062c783adba2e0538c409eb19f984daa5ae202fe2692d233711f5cd35bcde241315935'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vu2MhHQK/versions/ZUntjOqO/cosmetics-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'vu2MhHQK'
+version = 'ZUntjOqO'

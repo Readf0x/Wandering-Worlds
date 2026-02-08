@@ -1,0 +1,17 @@
+filename = 'jupiter-2.3.5-1.20.1-forge.jar'
+name = 'Jupiter'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.3.5-1.20.1-forge'
+
+[download]
+hash = 'ee650670f459cfe154f2d443545591791f088ddaed97c79811dfe8483a0bad724f28840ad4ddf9a6f4ad4148d746bab19d884939a1a7e8ef249a032c4c4f6352'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XbiLGMMU/versions/Tc0ZQbuF/jupiter-2.3.5-1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'XbiLGMMU'
+version = 'Tc0ZQbuF'

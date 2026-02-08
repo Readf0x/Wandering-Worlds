@@ -1,0 +1,18 @@
+{
+  "type": "origins:modify_break_speed",
+  "condition": {
+    "type": "origins:equipped_item",
+    "item_condition": {
+      "type": "origins:ingredient",
+      "ingredient": {
+        "tag": "aetherborn:tools"
+      }
+    },
+    "inverted": true
+  },
+  "modifier": {
+    "name": "Disallow normal tools",
+    "value": 0.0,
+    "operation": "set"
+  }
+}

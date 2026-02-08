@@ -1,0 +1,17 @@
+filename = 'betterstairscrafting-1.20.1-forge-0.jar'
+name = 'Better Stairs Recipe'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-forge-0'
+
+[download]
+hash = '18f1fba0b8fc8b8f60324e036087a0f0bccb43de762695c7d5a9e009691f062f9a12e950343d3438a69fc0269298cfd48bb9078f4e1420fdc4301bf22f2a1954'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/K7Od6XKa/versions/TVodSoUf/betterstairscrafting-1.20.1-forge-0.jar'
+
+[update.modrinth]
+mod-id = 'K7Od6XKa'
+version = 'TVodSoUf'

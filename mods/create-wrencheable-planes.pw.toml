@@ -1,0 +1,17 @@
+filename = 'create-wrencheable-planes-2.0-1.21-datapack.jar'
+name = 'Create: Wrencheable Planes'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0-1.20.1-mod'
+
+[download]
+hash = 'e349696051840943061859ee597745750f658a355a59804dc30bbb9014cdbf06f6aa9d041ca5f4a42e84281a7bf54eaa05a00010d7260e4a2cc954237fe763b9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/bOaXbJsz/versions/ipm6qRyb/create-wrencheable-planes-2.0-1.21-datapack.jar'
+
+[update.modrinth]
+mod-id = 'bOaXbJsz'
+version = 'ipm6qRyb'

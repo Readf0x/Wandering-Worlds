@@ -1,0 +1,22 @@
+{
+  "icon": "aether:blue_aercloud",
+  "impact": 3,
+  "order": 0,
+  "powers": [
+    "aetherborn:spawn_in_aether",
+    "origins:fall_immunity",
+    "aetherborn:fast_flying",
+    "origins:tailwind",
+    "origins:elytra",
+		"aetherborn:launch_into_air",
+    "origins:aerial_combatant",
+		"origins:weak_arms",
+    "origins:claustrophobia",
+    "aetherborn:aether_armor_only",
+    "aetherborn:extreme_hunger",
+    "aetherborn:aetherian_diet",
+    "aetherborn:low_defense",
+    "aetherborn:weak_on_ground",
+    "origins:fresh_air"
+  ]
+}

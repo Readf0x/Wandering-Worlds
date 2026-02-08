@@ -1,0 +1,17 @@
+filename = 'Projectiles-1.0.0-1.20.1-Multi.jar'
+name = 'Projectiles'
+side = ''
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = 'c497649d841a555473f7bfb8be0c45c722af114ec3fae4513d5176b2db56ca2e0ea7d2fb0831f5dfcf5ddbdbb4424d974d9e0e74b92b09fda31defe6a48ce8a7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UblF21s1/versions/VKSeHbXw/Projectiles-1.0.0-1.20.1-Multi.jar'
+
+[update.modrinth]
+mod-id = 'UblF21s1'
+version = 'VKSeHbXw'

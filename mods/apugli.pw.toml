@@ -1,0 +1,17 @@
+filename = 'Apugli-2.10.4+1.20.1-forge.jar'
+name = 'Apugli'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.10.4+1.20.1-forge'
+
+[download]
+hash = 'c811f018126f538f8bcc884223a8916725a022ab55ef7d9c8a693e30c1fac452bf7481ef08f0656a9aa3151ef1d66e23ed9b54c81e11be54c5b4f189fe4ee4a6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1qeWG44Y/versions/INHgsubH/Apugli-2.10.4%2B1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = '1qeWG44Y'
+version = 'INHgsubH'

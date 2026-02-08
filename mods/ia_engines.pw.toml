@@ -1,0 +1,17 @@
+filename = 'ia_engines-3.0.1.jar'
+name = 'Immersive Aircraft: Better Engines'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '3.0.1'
+
+[download]
+hash = '093fdf314a48988bb679d47a6d965bda6fe58ac35f18e37a945799cc49beb7a990cda5d51740b2a91da8fe82f16c4c7e04e087ad3cd505f80543f6a9b8881c99'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kNsl999k/versions/uMu0j5YO/ia_engines-3.0.1.jar'
+
+[update.modrinth]
+mod-id = 'kNsl999k'
+version = 'uMu0j5YO'

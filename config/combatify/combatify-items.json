@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "name": [
+        "minecraft:snowball",
+        "minecraft:egg"
+      ],
+      "cooldown": 4,
+      "cooldown_after": false
+    },
+    {
+      "name": "minecraft:snowball",
+      "stack_size": 64
+    },
+    {
+      "name": [
+        "minecraft:mushroom_stew",
+        "minecraft:rabbit_stew",
+        "minecraft:beetroot_soup",
+        "minecraft:suspicious_stew",
+        "minecraft:potion",
+        "minecraft:splash_potion",
+        "minecraft:lingering_potion",
+        "minecraft:milk_bucket",
+        "minecraft:honey_bottle"
+      ],
+      "use_duration": 20
+    },
+    {
+      "name": "minecraft:potion",
+      "stack_size": 16
+    },
+    {
+      "name": [
+        "minecraft:wooden_spear",
+        "minecraft:stone_spear",
+        "minecraft:iron_spear",
+        "minecraft:golden_spear",
+        "minecraft:diamond_spear",
+        "minecraft:netherite_spear"
+      ],
+      "weapon_type": "longsword"
+    }
+  ],
+  "weapon_types": [
+    {
+      "name": "sword",
+      "can_sweep": true,
+      "tierable": true
+    },
+    {
+      "name": "longsword",
+      "damage_offset": 3,
+      "speed": 5.0,
+      "reach": 4,
+      "charged_reach": 1.5,
+      "tierable": true,
+      "has_sword_enchants": false,
+      "armor_piercing": 0.25,
+      "can_sweep": false
+    }
+  ],
+  "blocking_types": [
+
+  ]
+}

@@ -1,0 +1,17 @@
+filename = 'uranus-2.2.6-1.20.1-forge.jar'
+name = 'Uranus'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.2.6'
+
+[download]
+hash = '57e68835c46f98a13a16744e598e81f2535f71a2ffe161450d71fb5687eb01324c632d3450413b82903f4fddbe7135539779d6bff2aac46e9076d69eaf28034a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3Acxy864/versions/Xgpvchiq/uranus-2.2.6-1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = '3Acxy864'
+version = 'Xgpvchiq'

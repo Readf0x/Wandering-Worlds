@@ -1,0 +1,17 @@
+filename = 'AlwaysShield-1.2.0+mc1.20.1-Forge.jar'
+name = 'Always Shield'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.0'
+
+[download]
+hash = '4692720ec8e108777f1a49cadf010250f1af500e6e540977240741ce2779b11c55334b06391a10baa2a5cab60a55f3cae54e40d43a5f5860378d473598a81674'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/f5J5N4a3/versions/Yo8cb0iQ/AlwaysShield-1.2.0%2Bmc1.20.1-Forge.jar'
+
+[update.modrinth]
+mod-id = 'f5J5N4a3'
+version = 'Yo8cb0iQ'

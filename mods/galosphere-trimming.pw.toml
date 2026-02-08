@@ -1,0 +1,17 @@
+filename = 'galospheretrimming-1.20.1-1.0.0.jar'
+name = 'Galosphere Trimming'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-1.0.0-neoforge'
+
+[download]
+hash = '27e765a6e4cbb229e5053d502177e31dd4acdc0b6b9ce7b483c2ed6691417bbdd4b004cd2dcc6fc2d9bc185b669d2117884803376878792bf96276b3ca28f68c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Pzuy21SU/versions/RfzJc7t3/galospheretrimming-1.20.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'Pzuy21SU'
+version = 'RfzJc7t3'

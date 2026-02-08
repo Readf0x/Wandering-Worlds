@@ -1,0 +1,17 @@
+filename = 'siegeweapons-1.20.1-0.2.2.jar'
+name = 'Siege Weapons'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.2.2'
+
+[download]
+hash = '4310c7a512875d6727961a55ad93d72730f83537a83f3b315060afc8487f7452121c95b55ba0fb32e4d62b0b2783baf25eea1270406399579b2027a32a77105a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/d4elsJgD/versions/DyjBT6Od/siegeweapons-1.20.1-0.2.2.jar'
+
+[update.modrinth]
+mod-id = 'd4elsJgD'
+version = 'DyjBT6Od'

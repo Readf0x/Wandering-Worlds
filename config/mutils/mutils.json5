@@ -1,0 +1,29 @@
+{
+	menuAlert: true,
+	chatAlert: false,
+	chatMessage: "There is an update available for your modpack!",
+	platform: "MODRINTH",
+	modpackName: "Wandering Worlds",
+	modpackId: "wandering-worlds",
+	modpackHome: "https://github.com/me/My-Modpack",
+	localVersion: "0.1.1-closed-playtest",
+	checkMcVersion: false,
+	loader: "forge",
+	versionAPI: "https://raw.githubusercontent.com/me/My-Modpack/main/Packwiz/pack.toml",
+	changelogLink: "https://raw.githubusercontent.com/me/My-Modpack/main/CHANGELOG.md",
+	versionType: [
+		"release",
+		"beta",
+		"alpha"
+	],
+	nameFilters: [],
+	versionFilters: [],
+	chatWelcome: false,
+	chatWelcomeMessage: "Welcome to <modpack-name> <version>!",
+	customIcon: false,
+	customTitle: true,
+	title: "<modpack-name> <version> | Minecraft <mc>",
+	ramMenuAlert: false,
+	ramChatAlert: false,
+	minRam: 8192
+}
