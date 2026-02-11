@@ -2302,6 +2302,11 @@ hash = "36b253b9b49dd2efadf2677e5461ab83d0edac2275bbe205ae0db7437a931cfd"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
+metafile = true
+
+[[files]]
 file = "mods/kube-utils.pw.toml"
 hash = "458a6063450877ee8beb58be9bc6567fc0c1d310f3f5748d6bf3e14c4eb9fb4a"
 metafile = true
