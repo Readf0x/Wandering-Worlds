@@ -1,5 +1,6 @@
 {
   "type": "origins:modify_player_spawn",
+  "spawn_strategy": "center",
   "dimension": "aether:the_aether",
   "dimension_distant_multiplier": 0.05882352941
 }

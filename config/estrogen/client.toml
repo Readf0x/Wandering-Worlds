@@ -31,7 +31,7 @@ rendering = true
 armorRendering = true
 # Enable chest feature physics rendering
 # Default: true
-physicsRendering = true
+physicsRendering = false
 
 # Settings for the chest feature (for local player)
 

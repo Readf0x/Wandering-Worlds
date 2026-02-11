@@ -1,12 +1,12 @@
 name = "Wandering Worlds"
 author = "readf0x"
-version = "0.1.3-closed-playtest"
+version = "0.1.4-beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b1c09c811087e26733e84e55bbe67d915c6f0f705fd7a30e81fe39b2406f036c"
+hash = "51e06ae6c6a3b834fe3c7ddd633eeb503f3f3418d7feeaedba667e74ab6fc7cb"
 
 [versions]
 forge = "47.4.10"

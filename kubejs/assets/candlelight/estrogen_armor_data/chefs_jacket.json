@@ -1,0 +1,7 @@
+{
+  "texture": "candlelight:textures/models/armor/cook.png",
+  "uv": [20, 23],
+  "left_uv": [26, 22],
+  "right_uv": [36, 22],
+  "size": [64.0, 64.0]
+}

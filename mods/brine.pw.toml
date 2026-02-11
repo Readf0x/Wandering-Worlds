@@ -1,0 +1,17 @@
+filename = 'brine-1.0.0-forge-1.20.1.jar'
+name = 'Brine'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = 'b47d9e539e22a61fd2d1ba50abefcdfe13cd45e8230c9c434a017a9068359c8de1a297e03329b7da9d8a69e9f6c2685da7ad728fea74a34f8a04ce8fc93e149b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6tmUsemR/versions/YfDJLioJ/brine-1.0.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = '6tmUsemR'
+version = 'YfDJLioJ'

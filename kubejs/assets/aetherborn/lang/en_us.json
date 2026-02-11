@@ -1,0 +1,18 @@
+{
+  "origin.aetherborn.aetherborn.name": "Aerborn",
+  "origin.aetherborn.aetherborn.description": "Related to the Elytrian, the Aerborn are their Aether native cousins.",
+  "power.aetherborn.aether_armor_only.name": "Warrior of the Aether",
+  "power.aetherborn.aether_armor_only.description": "You are a warrior of the Aether, and only armor from the Aether fits you.",
+  "power.aetherborn.spawn_in_aether.name": "Aether Native",
+  "power.aetherborn.spawn_in_aether.description": "You are a native to the Aether, and spawn inside it.",
+  "power.aetherborn.fast_flying.name": "Float on",
+  "power.aetherborn.fast_flying.description": "You are easily propelled by the wind, moving great distances in the air.",
+  "power.aetherborn.extreme_hunger.name": "Insatiable",
+  "power.aetherborn.extreme_hunger.description": "You need to eat far more frequently than any other creature.",
+  "power.aetherborn.launch_into_air.name": "Wind Launch",
+  "power.aetherborn.launch_into_air.description": "You can fly into the air, just like your elytrian cousins, but with a far shorter cooldown.",
+  "power.aetherborn.aetherian_diet.name": "Aetherian Diet",
+  "power.aetherborn.aetherian_diet.description": "Being of the Aether, you can only digest foods from your natural habitat.",
+  "power.aetherborn.wispy_constitution.name": "Wispy Constitution",
+  "power.aetherborn.wispy_constitution.description": "Due to your airy nature, you only have 5 hearts."
+}

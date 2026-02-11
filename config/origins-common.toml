@@ -159,4 +159,5 @@
 		"origins:weak_arms" = true
 		"aetherborn:weak_on_ground" = true
 		"aetherborn:low_defense" = true
+		"aetherborn:wispy_constitution" = true
 

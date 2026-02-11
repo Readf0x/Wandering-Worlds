@@ -1,0 +1,17 @@
+filename = 'travelertoolbelt-forge-1.20.1-1.0.2.jar'
+name = 'Traveler Tool Belt'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-1.0.2'
+
+[download]
+hash = '7dd76cb60f22dc6d7cf74f99cb7911055eece46c314ac8d206018142d32a96643f2dc924415c8b1f845f208505f89a4663a5e3d5ff544aa98d5ab8c556c07d85'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oQxD3huq/versions/GiI7QUEN/travelertoolbelt-forge-1.20.1-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'oQxD3huq'
+version = 'GiI7QUEN'

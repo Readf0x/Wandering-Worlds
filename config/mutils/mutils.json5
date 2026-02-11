@@ -5,12 +5,12 @@
 	platform: "MODRINTH",
 	modpackName: "Wandering Worlds",
 	modpackId: "wandering-worlds",
-	modpackHome: "https://github.com/me/My-Modpack",
-	localVersion: "0.1.1-closed-playtest",
+	modpackHome: "https://github.com/Readf0x/Wandering-Worlds",
+	localVersion: "0.1.4-beta",
 	checkMcVersion: false,
 	loader: "forge",
-	versionAPI: "https://raw.githubusercontent.com/me/My-Modpack/main/Packwiz/pack.toml",
-	changelogLink: "https://raw.githubusercontent.com/me/My-Modpack/main/CHANGELOG.md",
+	versionAPI: "",
+	changelogLink: "",
 	versionType: [
 		"release",
 		"beta",
@@ -23,7 +23,7 @@
 	customIcon: false,
 	customTitle: true,
 	title: "<modpack-name> <version> | Minecraft <mc>",
-	ramMenuAlert: false,
+	ramMenuAlert: true,
 	ramChatAlert: false,
-	minRam: 8192
+	minRam: 4096
 }

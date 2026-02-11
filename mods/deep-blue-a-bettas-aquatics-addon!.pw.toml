@@ -1,0 +1,30 @@
+filename = 'Deep-Blue-Addon-1.20.1-1.2.jar'
+name = 'Deep Blue: A Bettas & Aquatics Addon!'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [
+    '1.20.1',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2',
+    '1.20.3',
+    '1.20.3',
+    '1.20.4',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5',
+    '1.20.6',
+    '1.20.6'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-1.2'
+
+[download]
+hash = '5c539380e6b205fe10fb3bff6d2ca729373da6374747c28fd5ab71f797327c4b3f7ee06c9f5ffbd93b148910871c08bcb277fcd712fbc6ec08fcd58d9613e31f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FKyPTkpw/versions/41ucm7ew/Deep-Blue-Addon-1.20.1-1.2.jar'
+
+[update.modrinth]
+mod-id = 'FKyPTkpw'
+version = '41ucm7ew'

@@ -1,7 +1,0 @@
-{
-  "type": "origins:modify_damage_taken",
-  "modifier": {
-    "operation": "addition",
-    "value": 1.0
-  }
-}
