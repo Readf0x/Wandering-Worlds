@@ -2147,11 +2147,6 @@ hash = "4a700a0285d8de6d8d0e7e02fdf09ec8bfd824ed362abde47ec6125f643742a3"
 metafile = true
 
 [[files]]
-file = "mods/dirtyaliasing.pw.toml"
-hash = "f990f7c916c251565ac4719fa87f3aa33bab9bc9085b1a7ef81c342bcfaf4927"
-metafile = true
-
-[[files]]
 file = "mods/domestication-innovation.pw.toml"
 hash = "ca6607a5dcf6b350cc7d05c034d12ef980fefa20b4d00ba95f5e27d83510f237"
 metafile = true
