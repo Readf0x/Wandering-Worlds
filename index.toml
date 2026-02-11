@@ -2683,7 +2683,7 @@ metafile = true
 
 [[files]]
 file = "mods/parcool-compatibility-addon.pw.toml"
-hash = "aee323ccb8d3f678a83aa2a95200950dae83f39468055ef4892aea7f7b26b6a2"
+hash = "e34ff491edb97972f042c2d992d46c2018cfe7fdd1ea145f9659858a70532d6f"
 metafile = true
 
 [[files]]
